@@ -1,0 +1,6 @@
+"0","fb <- googlesheets4::range_read(ss = gs, sheet = ""fb"")
+"
+"2","[32m✔[39m Reading from ""[36mLA MOLINA 2014 POTATO WUE (FB)[39m"".
+"
+"2","[32m✔[39m Range '[33m'fb'[39m'.
+"

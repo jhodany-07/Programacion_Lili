@@ -1,0 +1,6 @@
+"0","remove_outliers(data = fb, formula = lfa ~ riego + geno + riego*geno + (1 | bloque), plot_diag = T)
+"
+"1","$data
+"
+"1","$data$raw
+"
